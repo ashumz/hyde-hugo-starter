@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-date: 0201-12-31T22:45:00+00:00
+date: 
 menu:
   main:
     weight: 1
