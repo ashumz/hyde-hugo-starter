@@ -1,8 +1,7 @@
 baseURL = "https://funny-fudge-7159b4.netlify.app/"
 languageCode = "en-us"
 theme = "hyde"
-title = "My New Hugo Site"
-[params]
+title = "Hi, I'm Ashley"
 disqusShortname = ""
 googleAnalytics = ""
 layoutReverse = false
