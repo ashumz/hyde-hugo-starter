@@ -7,6 +7,4 @@ menu:
     weight: 1
 
 ---
-<p class="message"> Highlighted stuff </p>
-
-Test
+This is my blog.
