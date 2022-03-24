@@ -1,7 +1,9 @@
 baseURL = "https://funny-fudge-7159b4.netlify.app/"
 languageCode = "en-us"
 theme = "hyde"
-title = "Ashley McClelland"
+title = "ashley"
+[params]
+  description = "testing description"
 disqusShortname = ""
 googleAnalytics = ""
 layoutReverse = false
